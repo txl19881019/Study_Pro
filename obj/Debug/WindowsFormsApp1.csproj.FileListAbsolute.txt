@@ -9,3 +9,14 @@ D:\Code\C_project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\Code\C_project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 D:\Code\C_project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
 D:\Code\C_project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+H:\C#\bin\Debug\WindowsFormsApp1.exe.config
+H:\C#\bin\Debug\WindowsFormsApp1.exe
+H:\C#\bin\Debug\WindowsFormsApp1.pdb
+H:\C#\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+H:\C#\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\C#\obj\Debug\WindowsFormsApp1.Login.resources
+H:\C#\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\C#\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\C#\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\C#\obj\Debug\WindowsFormsApp1.exe
+H:\C#\obj\Debug\WindowsFormsApp1.pdb
