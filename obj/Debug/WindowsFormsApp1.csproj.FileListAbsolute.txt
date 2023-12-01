@@ -20,3 +20,17 @@ H:\C#\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
 H:\C#\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 H:\C#\obj\Debug\WindowsFormsApp1.exe
 H:\C#\obj\Debug\WindowsFormsApp1.pdb
+D:\Code\C_project\Xiuzhen\bin\Debug\WindowsFormsApp1.exe.config
+D:\Code\C_project\Xiuzhen\bin\Debug\WindowsFormsApp1.exe
+D:\Code\C_project\Xiuzhen\bin\Debug\WindowsFormsApp1.pdb
+D:\Code\C_project\Xiuzhen\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Code\C_project\Xiuzhen\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Code\C_project\Xiuzhen\obj\Debug\WindowsFormsApp1.Login.resources
+D:\Code\C_project\Xiuzhen\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Code\C_project\Xiuzhen\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Code\C_project\Xiuzhen\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Code\C_project\Xiuzhen\obj\Debug\WindowsFormsApp1.exe
+D:\Code\C_project\Xiuzhen\obj\Debug\WindowsFormsApp1.pdb
+D:\Code\C_project\Xiuzhen\bin\Debug\Newtonsoft.Json.dll
+D:\Code\C_project\Xiuzhen\bin\Debug\Newtonsoft.Json.xml
+D:\Code\C_project\Xiuzhen\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
