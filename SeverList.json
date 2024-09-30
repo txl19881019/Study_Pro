@@ -12,10 +12,6 @@
         {
             "ServerName": "Multilingual",
             "WebAPI": "http://52.221.247.45/"
-        },
-        {
-            "ServerName": "Mongolian",
-            "WebAPI": "http://35.72.182.54/"
         }
     ],
 
